@@ -1,2 +1,0 @@
-# Gray Scale To RGB
-
